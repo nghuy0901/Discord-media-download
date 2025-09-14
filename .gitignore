@@ -1,0 +1,12 @@
+.env
+*.log
+
+# Ignore downloads and local state
+downloads/
+discord.log
+__pycache__/
+*.pyc
+.vscode/
+.idea/
+scan_history.json
+scan_recovery.json
